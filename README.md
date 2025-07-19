@@ -42,14 +42,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-
-  ### 🟡 Pac‑Man Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VicorVasconcelos/VicorVasconcelos/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VicorVasconcelos/VicorVasconcelos/output/pacman-contribution-graph.svg">
-  <img alt="Pac‑Man graph" src="https://raw.githubusercontent.com/VicorVasconcelos/VicorVasconcelos/output/pacman-contribution-graph.svg">
-</picture>
 </div>
 
 
