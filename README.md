@@ -39,7 +39,6 @@
 
 ###
 
-<h2 align="left">🟡 Gráfico de Contribuição do Pac‑Man</h2>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VicorVasconcelos/VicorVasconcelos/output/pacman-contribution-graph-dark.svg">
