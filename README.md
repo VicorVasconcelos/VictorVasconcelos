@@ -1,5 +1,8 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
+![Fancy logo](./dark.png#gh-dark-mode-only)
+![Fancy logo](./light.png#gh-light-mode-only)
+
 ###
 
 <p align="left">My name is Victor Vasconcelos and I'm a Fullstack Developer, from Brasil</p>
