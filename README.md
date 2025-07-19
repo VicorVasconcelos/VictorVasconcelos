@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Sou Desenvolvedor Fullstack, Brasil 🇧🇷</p>
+<p align="left">Desenvolvedor Fullstack, Brasil 🇧🇷</p>
 
 ###
 
