@@ -1,48 +1,48 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Olá, eu sou o Victor ✌🏻</h1>
 
 ###
 
-<p align="left">My name is Victor Vasconcelos and I'm a Fullstack Developer, from Brasil</p>
+<p align="left">Sou Desenvolvedor Fullstack, Brasil 🇧🇷</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">Sobre mim</h2>
 
 ###
 
 <p align="left">
-✨ Creating bugs since 2021<br>
-🎓 Graduated in Analysis and Systems Development<br>
-🔐 Currently taking a postgrad in Information Security<br>
-📚 I'm currently learning advanced cybersecurity and backend architecture<br>
-🎯 Goals: Build secure, scalable applications and become a reference in ethical hacking<br>
-🎲 Fun fact: I debug better at 3AM with coffee in one hand and Spotify blasting lo-fi in the background
+✨ Criando bugs desde 2021<br>
+🎓 Formado em Análise e Desenvolvimento de Sistemas<br>
+🔐 Cursando pós-graduação em Segurança da Informação<br>
+📚 Atualmente estudando cibersegurança avançada e arquitetura backend<br>
+🎯 Objetivo: Construir aplicações seguras e escaláveis e me tornar referência em hacking ético<br>
+🎲 Curiosidade: Programo melhor às 3 da manhã com café na mão e lo-fi no fone
 </p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Tecnologias que uso</h2>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="Storybook" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
 </div>
 
 ###
 
-### 🟡 Pac‑Man Contribution Graph
+<h2 align="left">🟡 Gráfico de Contribuição do Pac‑Man</h2>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VicorVasconcelos/VicorVasconcelos/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VicorVasconcelos/VicorVasconcelos/output/pacman-contribution-graph.svg">
-  <img alt="Pac‑Man graph" src="https://raw.githubusercontent.com/VicorVasconcelos/VicorVasconcelos/output/pacman-contribution-graph.svg">
+  <img alt="Gráfico estilo Pac‑Man" src="https://raw.githubusercontent.com/VicorVasconcelos/VicorVasconcelos/output/pacman-contribution-graph.svg">
 </picture>
