@@ -14,9 +14,6 @@
 ✨ Criando bugs desde 2021<br>
 🎓 Formado em Análise e Desenvolvimento de Sistemas<br>
 🔐 Cursando pós-graduação em Segurança da Informação<br>
-📚 Atualmente estudando cibersegurança avançada e arquitetura backend<br>
-🎯 Objetivo: Construir aplicações seguras e escaláveis e me tornar referência em hacking ético<br>
-🎲 Curiosidade: Programo melhor às 3 da manhã com café na mão e lo-fi no fone
 </p>
 
 ###
